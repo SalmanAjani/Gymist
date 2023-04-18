@@ -61,7 +61,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
           }}
         >
           <HText>WHY CHOOSE US?</HText>
-          <p className="text-md my-5 xl:text-[17px]">
+          <p className="my-5 text-sm xl:text-[17px]">
             Our gym is more than just a place to work out - it's a community of
             like-minded individuals dedicated to living a healthy lifestyle.
             With a variety of classes and personalized training programs, we
