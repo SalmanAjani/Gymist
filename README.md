@@ -1,7 +1,8 @@
 <h1>Gymist</h1>
+<p>Transform yourself today with Gymist - where fitness meets inspiration.</p>
 
 <h2>Description</h2>
-<p>Transform yourself today with Gymist - where fitness meets inspiration. Gymist is your goto website for a fitness app. Each section highlights all the features and services offered by you.</p>
+<p>Gymist is your goto website for a fitness app. Each section highlights all the features and services offered by you.</p>
 
 <h2>Tech Stack</h2>
 <ul>
