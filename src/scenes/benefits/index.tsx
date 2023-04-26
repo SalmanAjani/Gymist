@@ -50,7 +50,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
       >
         {/* Header */}
         <motion.div
-          className="md:my-12 md:w-4/5"
+          className="mt-16 sm:mt-36 md:mb-16 md:mt-16 md:w-4/5"
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, amount: 0.5 }}
